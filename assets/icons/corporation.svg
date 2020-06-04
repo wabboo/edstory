@@ -64,7 +64,6 @@
        height="15.367999"
        x="-31.197962"
        y="98.170792"
-       style="fill:#ffffff;stroke:#ffffff"
        ry="0"
        transform="rotate(-43.325159)" />
     <rect
@@ -73,7 +72,6 @@
        height="15.367999"
        x="-15.829963"
        y="113.53879"
-       style="fill:#ffffff;stroke:#ffffff"
        ry="0"
        transform="rotate(-43.325159)" />
     <rect
@@ -82,7 +80,6 @@
        height="15.367999"
        x="-0.46196365"
        y="128.90678"
-       style="fill:#ffffff;stroke:#ffffff"
        ry="0"
        transform="rotate(-43.325159)" />
     <rect
@@ -91,17 +88,17 @@
        height="15.367999"
        x="6.587378"
        y="90.732147"
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.26458332"
+       style="stroke-width:0.26458332"
        ry="0"
        transform="rotate(-43.325159)" />
     <path
-       style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1"
+       style="stroke-opacity:1"
        d="m 77.590827,71.314133 0.110631,12.09116"
        id="path4572"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#ffffff;stroke-opacity:1"
+       style="fill: none; stroke-opacity:1"
        d="m 55.842851,82.277994 v 0 0 l 0.01648,-6.042624 H 99.29063 l 9.11e-4,7.313051"
        id="path4574"
        inkscape:connector-curvature="0"
