@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="transaction-claim.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg1469"
+   version="1.1"
+   viewBox="0 0 12.7 12.7"
+   height="48"
+   width="48">
+  <defs
+     id="defs1463" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="34"
+     inkscape:window-x="182"
+     inkscape:window-height="967"
+     inkscape:window-width="1374"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="59.563543"
+     inkscape:cx="94.321429"
+     inkscape:zoom="2.8"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata1466">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Laag 1">
+    <path
+       style="display:inline;opacity:0.7;fill:none;;stroke-width:0.376396;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       d="m 11.321824,4.4443646 0.518129,0.02226 -2.1626225,4.0103851 -8.78565149,0.04452 0.54065609,-0.9356364"
+       id="path880"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path880-4"
+       d="M 0.87403079,7.6082388 3.2619264,3.3751669 H 11.822305 L 9.5019907,7.6082388 Z"
+       style="display:inline;opacity:0.97;fill:none;stroke-width:0.376396;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path880-9"
+       d="m 11.371759,5.4473003 0.450546,0.02226 -2.0499847,3.8321334 -8.83070713,0.02226 0.49560153,-0.7573849"
+       style="display:inline;opacity:0.7;fill:none;stroke-width:0.376396;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+    <path
+       style="display:inline;opacity:0.97;fill:none;stroke-width:0.376396;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       d="m 10.285569,6.1601082 -6.8708305,0.02226 1.66702,-2.8075788"
+       id="path986"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.51445px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';display:inline;opacity:0.97;stroke-width:0.376396;stroke-miterlimit:4;stroke-dasharray:none;"
+       x="10.182126"
+       y="6.1364121"
+       id="text990"
+       transform="matrix(1.0968757,0,-0.636046,0.91168033,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan988"
+         x="10.182126"
+         y="6.1364121"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Condensed';stroke-width:0.376396;stroke-miterlimit:4;stroke-dasharray:none">CR</tspan></text>
+  </g>
+</svg>

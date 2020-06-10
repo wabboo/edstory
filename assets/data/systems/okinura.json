@@ -1,0 +1,219 @@
+{
+  "name": "Okunira",
+  "stars": [
+    {
+      "name": "Okinura",
+      "radius": 234242,
+      "planets": [
+        {
+          "name": "Okunira 1",
+          "radius": 1394,
+          "semiMajorAxis": 0.05,
+          "orbitalPeriod": 4.2,
+          "eccentricity": 0,
+          "orbitalInclination": 0
+        },
+        {
+          "name": "Okunira 2",
+          "radius": 2953,
+          "semiMajorAxis": 0.08,
+          "orbitalPeriod": 8.5,
+          "eccentricity": 0,
+          "orbitalInclination": 0.03,
+          "planets": [
+            {
+              "name": "Okunira 2 a",
+              "radius": 1015,
+              "semiMajorAxis": 0.0,
+              "orbitalPeriod": 0.8,
+              "eccentricity": 0,
+              "orbitalInclination": -72.77
+            }
+          ]
+        },
+        {
+          "name": "Okunira 3",
+          "radius": 1898,
+          "semiMajorAxis": 0.12,
+          "orbitalPeriod": 16.9,
+          "eccentricity": 0.0001,
+          "orbitalInclination": 0.06
+        },
+        {
+          "name": "Okunira 4",
+          "radius": 5218,
+          "semiMajorAxis": 0.22,
+          "orbitalPeriod": 40.9,
+          "eccentricity": 0.0003,
+          "orbitalInclination": 0.0
+        },
+        {
+          "name": "Okunira 5",
+          "radius": 6529,
+          "semiMajorAxis": 0.35,
+          "orbitalPeriod": 81.2,
+          "eccentricity": 0.0003,
+          "orbitalInclination": 0.02
+        },
+        {
+          "name": "Okunira 6",
+          "radius": 5615,
+          "semiMajorAxis": 0.69,
+          "orbitalPeriod": 225.7,
+          "eccentricity": 0.0008,
+          "orbitalInclination": 0.03
+        },
+        {
+          "name": "Okunira 7",
+          "radius": 4839,
+          "semiMajorAxis": 1.05,
+          "orbitalPeriod": 425.0,
+          "eccentricity": 0.0004,
+          "orbitalInclination": 0.23
+        },
+        {
+          "name": "Okunira 8",
+          "radius": 74334,
+          "semiMajorAxis": 0.01,
+          "orbitalPeriod": 242.7,
+          "eccentricity": 0.0690,
+          "orbitalInclination": -4.31,
+          "planets": [
+            {
+              "name": "Okunira 8 a",
+              "radius": 945
+            },
+            {
+              "name": "Okunira 8 b",
+              "radius": 1035
+            },
+            {
+              "name": "Okunira 8 c",
+              "radius": 889
+            },
+            {
+              "name": "Okunira 8 d",
+              "radius": 1192,
+              "planets": [
+                {
+                  "name": "Okunira 8 d a",
+                  "radius": 449
+                }
+              ]
+            },
+            {
+              "name": "Okunira 9",
+              "radius": 360288,
+              "semiMajorAxis": 0.08,
+              "orbitalPeriod": 242.7,
+              "eccentricity": 0.0690,
+              "orbitalInclination": -4.31,
+              "planets": [
+                {
+                  "name": "Okunira 9 a",
+                  "radius": 926
+                },
+                {
+                  "name": "Okunira 9 b",
+                  "radius": 904
+                },
+                {
+                  "name": "Okunira 9 c",
+                  "radius": 717
+                },
+                {
+                  "name": "Okunira 9 d",
+                  "radius": 772
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Okunira 10",
+          "radius": 67214,
+          "semiMajorAxis": 3.92,
+          "orbitalPeriod": 3072.4,
+          "eccentricity": 0.0551,
+          "orbitalInclination": 175.78,
+          "planets": [
+            {
+              "name": "Okunira 10 a",
+              "radius": 566
+            },
+            {
+              "name": "Okunira 10 b",
+              "radius": 675
+            },
+            {
+              "name": "Okunira 10 c",
+              "radius": 571
+            },
+            {
+              "name": "Okunira 10 d",
+              "radius": 1031
+            },
+            {
+              "name": "Okunira 10 e",
+              "radius": 722
+            },
+            {
+              "name": "Okunira 10 f",
+              "radius": 1131
+            },
+            {
+              "name": "Okunira 10 g",
+              "radius": 1167
+            },
+            {
+              "name": "Okunira 10 h",
+              "radius": 1442
+            },
+            {
+              "name": "Okunira 10 i",
+              "radius": 1338
+            },
+            {
+              "name": "Okunira 10 j",
+              "radius": 2852
+            }
+          ]
+        },
+        {
+          "name": "Okunira 11",
+          "radius": 33546,
+          "semiMajorAxis": 0.01,
+          "orbitalPeriod": 589.4,
+          "eccentricity": 0.0054,
+          "orbitalInclination": -4.57,
+          "planets": [
+            {
+              "name": "Okunira 11 a",
+              "radius": 757
+            },
+            {
+              "name": "Okunira 11 b",
+              "radius": 1087
+            },
+            {
+              "name": "Okunira 11 c",
+              "radius": 945
+            },
+            {
+              "name": "Okunira 11 d",
+              "radius": 964
+            }
+          ]
+        },
+        {
+          "name": "Okunira 12",
+          "radius": 12012,
+          "semiMajorAxis": 0.05,
+          "orbitalPeriod": 242.7,
+          "eccentricity": 0.00054,
+          "orbitalInclination": -4.57
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="star.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg2990"
+   version="1.1"
+   viewBox="0 0 12.7 12.7"
+   height="48"
+   width="48">
+  <defs
+     id="defs2984" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="34"
+     inkscape:window-x="208"
+     inkscape:window-height="967"
+     inkscape:window-width="1374"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer6"
+     inkscape:document-units="mm"
+     inkscape:cy="25.79043"
+     inkscape:cx="11.295651"
+     inkscape:zoom="7.9195959"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata2987">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Laag 2"
+     id="layer6"
+     inkscape:groupmode="layer">
+    <path
+       transform="matrix(0.93339859,0.03722249,-0.0341937,0.85744794,0.05309895,0.56137787)"
+       d="M 7.1828687,11.726451 5.9738398,7.5285017 1.7038431,6.6483295 5.9017923,5.4393006 6.7819646,1.1693039 7.9909935,5.3672531 12.26099,6.2474253 8.0630409,7.4564542 Z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="2.3217225"
+       sodipodi:arg1="1.5328399"
+       sodipodi:r2="1.4781665"
+       sodipodi:r1="5.2823782"
+       sodipodi:cy="6.4478774"
+       sodipodi:cx="6.9824166"
+       sodipodi:sides="4"
+       id="path3568"
+       style="fill:none;stroke-width:0.555625;stroke-linecap:round;stroke-linejoin:round"
+       sodipodi:type="star" />
+  </g>
+</svg>
