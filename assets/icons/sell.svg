@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="sell.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg2786"
+   version="1.1"
+   viewBox="0 0 16.933333 16.933333"
+   height="64"
+   width="64">
+  <defs
+     id="defs2780" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="182"
+     inkscape:window-x="182"
+     inkscape:window-height="967"
+     inkscape:window-width="1374"
+     width="64px"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="43.187816"
+     inkscape:cx="20.980751"
+     inkscape:zoom="7.9195959"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata2783">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Laag 1">
+    <path
+       sodipodi:nodetypes="cccccccc"
+       id="path848-7"
+       d="m 4.4170161,11.732019 4.1517239,-1.576307 3.930298,1.576307 h -1.49462 l 1.079447,3.424277 H 4.4723722 l 1.605334,-3.424277 z"
+       style="display:inline;fill-opacity:0.5;stroke:none;stroke-width:0.217549;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       transform="matrix(0.81108997,-0.58492141,0.6261517,0.77970126,0,0)"
+       style="display:inline;fill:none;stroke-width:0.331003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="7.7957439"
+       x="-0.78464663"
+       height="3.4429512"
+       width="7.752192"
+       id="rect22" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path831"
+       d="M 4.2228191,7.7288881 6.2231053,10.308773 12.602396,5.6649672"
+       style="display:inline;fill:none;stroke-width:0.333281;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path831-5"
+       d="M 4.1955363,8.9853913 6.1958225,11.565292 12.575114,6.9214707"
+       style="display:inline;fill:none;stroke-width:0.333281;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       inkscape:transform-center-y="-0.050209304"
+       inkscape:transform-center-x="0.24148947"
+       transform="matrix(0.81005778,-0.6282535,0.65600755,0.7257025,0,0)"
+       id="text860"
+       y="10.436225"
+       x="1.2454588"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:2.32936px;line-height:1.25;font-family:'Arial Nova';-inkscape-font-specification:'Arial Nova, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:2.32936px;font-family:'Arial Nova';-inkscape-font-specification:'Arial Nova, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="10.436225"
+         x="1.2454588"
+         id="tspan864"
+         sodipodi:role="line">CR</tspan></text>
+  </g>
+</svg>
