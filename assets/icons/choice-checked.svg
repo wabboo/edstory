@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="choice-checked.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 12.7 12.7"
+   height="48"
+   width="48">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="183"
+     inkscape:window-x="1320"
+     inkscape:window-height="967"
+     inkscape:window-width="1374"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="32.32541"
+     inkscape:cx="43.253524"
+     inkscape:zoom="7.9195959"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Laag 1">
+    <path
+       sodipodi:nodetypes="ccc"
+       id="path852"
+       d="M 4.5287252,4.0576224 2.1179168,6.3499999 4.5287252,8.6423774"
+       style="fill:none;stroke-width:0.545;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke-width:0.545;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8.1712747,4.0576226 10.582083,6.35 8.1712747,8.6423776"
+       id="path852-5"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       transform="matrix(0.723724,-0.69008954,0.72142762,0.69248985,0,0)"
+       ry="1.6023838e-17"
+       rx="1.619195e-17"
+       y="7.6490378"
+       x="-1.5216062"
+       height="2.6749492"
+       width="2.6753428"
+       id="rect871"
+       style="stroke:none;stroke-width:0.335692;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+</svg>
