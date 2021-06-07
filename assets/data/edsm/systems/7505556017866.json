@@ -44,7 +44,7 @@
           "outerRadius": 2283700
         }
       ],
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-01-09 16:46:51"
     },
     {
       "id": 3201777,
@@ -99,7 +99,7 @@
         "Ruthenium": 1.31,
         "Mercury": 0.93
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3205577,
@@ -154,7 +154,7 @@
         "Tin": 1.47,
         "Yttrium": 1.34
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3203197,
@@ -197,7 +197,7 @@
       "orbitalInclination": -72.772578,
       "argOfPeriapsis": 127.19237,
       "rotationalPeriod": 0.8096903049421297,
-      "rotationalPeriodTidallyLocked": true,
+      "rotationalPeriodTidallyLocked": false,
       "axialTilt": -0.479215,
       "materials": {
         "Iron": 19.74,
@@ -212,7 +212,7 @@
         "Yttrium": 1.18,
         "Tungsten": 1.08
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3199068,
@@ -267,7 +267,7 @@
         "Tin": 1.36,
         "Ruthenium": 1.29
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3201996,
@@ -307,7 +307,7 @@
       "orbitalInclination": 0.004788,
       "argOfPeriapsis": 30.784011,
       "rotationalPeriod": 40.910762749907406,
-      "rotationalPeriodTidallyLocked": true,
+      "rotationalPeriodTidallyLocked": false,
       "axialTilt": 0.42011,
       "materials": {
         "Iron": 22.02,
@@ -322,7 +322,7 @@
         "Tin": 1.44,
         "Technetium": 0.79
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3205738,
@@ -367,7 +367,7 @@
       "rotationalPeriod": 81.32676056048611,
       "rotationalPeriodTidallyLocked": true,
       "axialTilt": 0.335536,
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3208753,
@@ -411,9 +411,9 @@
       "orbitalInclination": 0.027523,
       "argOfPeriapsis": 78.062741,
       "rotationalPeriod": 225.97986362261574,
-      "rotationalPeriodTidallyLocked": false,
+      "rotationalPeriodTidallyLocked": true,
       "axialTilt": -0.362035,
-      "updateTime": "2020-07-16 02:02:31"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3184870,
@@ -459,7 +459,7 @@
       "rotationalPeriod": 1.4295441864583334,
       "rotationalPeriodTidallyLocked": false,
       "axialTilt": -0.044236,
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 8628606,
@@ -480,7 +480,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 1432,
+      "distanceToArrival": 1437,
       "isLandable": false,
       "gravity": 2.979178963250657,
       "earthMasses": 404.669189,
@@ -520,7 +520,7 @@
         }
       ],
       "reserveLevel": "Low",
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3204685,
@@ -544,7 +544,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 1431,
+      "distanceToArrival": 1437,
       "isLandable": false,
       "gravity": 0.11094560567412594,
       "earthMasses": 0.002434,
@@ -569,9 +569,9 @@
       "orbitalInclination": -0.021598,
       "argOfPeriapsis": 356.929376,
       "rotationalPeriod": 1.0593845409143519,
-      "rotationalPeriodTidallyLocked": true,
+      "rotationalPeriodTidallyLocked": false,
       "axialTilt": -0.235672,
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3184810,
@@ -595,7 +595,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 1430,
+      "distanceToArrival": 1440,
       "isLandable": false,
       "gravity": 0.1219844720703766,
       "earthMasses": 0.003216,
@@ -620,9 +620,9 @@
       "orbitalInclination": -0.001122,
       "argOfPeriapsis": 340.926782,
       "rotationalPeriod": 2.5049006907986113,
-      "rotationalPeriodTidallyLocked": false,
+      "rotationalPeriodTidallyLocked": true,
       "axialTilt": 0.322262,
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3189116,
@@ -646,7 +646,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 1433,
+      "distanceToArrival": 1443,
       "isLandable": true,
       "gravity": 0.10393245056337984,
       "earthMasses": 0.002007,
@@ -683,7 +683,7 @@
         "Niobium": 1.34,
         "Mercury": 0.86
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3190356,
@@ -707,7 +707,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 1435,
+      "distanceToArrival": 1438,
       "isLandable": true,
       "gravity": 0.1413728751312225,
       "earthMasses": 0.004937,
@@ -744,7 +744,7 @@
         "Tellurium": 1.46,
         "Molybdenum": 1.27
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3203496,
@@ -771,7 +771,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 1435,
+      "distanceToArrival": 1438,
       "isLandable": true,
       "gravity": 0.0497839126601507,
       "earthMasses": 0.000247,
@@ -808,7 +808,7 @@
         "Niobium": 1.21,
         "Tungsten": 0.97
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 8628573,
@@ -829,7 +829,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 1463,
+      "distanceToArrival": 1443,
       "isLandable": false,
       "gravity": 0.6706965634130723,
       "earthMasses": 36.02879,
@@ -850,7 +850,7 @@
       "orbitalInclination": -4.305607,
       "argOfPeriapsis": 30.285168,
       "rotationalPeriod": 253.2495830371412,
-      "rotationalPeriodTidallyLocked": true,
+      "rotationalPeriodTidallyLocked": false,
       "axialTilt": -0.519138,
       "rings": [
         {
@@ -862,7 +862,7 @@
         }
       ],
       "reserveLevel": "Low",
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3185225,
@@ -886,7 +886,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 1464,
+      "distanceToArrival": 1443,
       "isLandable": true,
       "gravity": 0.05514440379975847,
       "earthMasses": 0.001163,
@@ -923,7 +923,7 @@
         "Molybdenum": 0.83,
         "Antimony": 0.78
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3202532,
@@ -947,7 +947,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 1463,
+      "distanceToArrival": 1448,
       "isLandable": true,
       "gravity": 0.053776956115938024,
       "earthMasses": 0.00108,
@@ -969,7 +969,7 @@
       "orbitalInclination": -1.770604,
       "argOfPeriapsis": 279.3784,
       "rotationalPeriod": 1.3471307014583334,
-      "rotationalPeriodTidallyLocked": true,
+      "rotationalPeriodTidallyLocked": false,
       "axialTilt": -0.324606,
       "materials": {
         "Sulphur": 27.36,
@@ -984,7 +984,7 @@
         "Molybdenum": 0.81,
         "Yttrium": 0.74
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3196594,
@@ -1008,7 +1008,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 1465,
+      "distanceToArrival": 1447,
       "isLandable": true,
       "gravity": 0.04251826326015688,
       "earthMasses": 0.000538,
@@ -1045,7 +1045,7 @@
         "Mercury": 0.53,
         "Technetium": 0.44
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3202918,
@@ -1069,7 +1069,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 1465,
+      "distanceToArrival": 1449,
       "isLandable": true,
       "gravity": 0.045793680222152404,
       "earthMasses": 0.000671,
@@ -1091,7 +1091,7 @@
       "orbitalInclination": -8.287247,
       "argOfPeriapsis": 158.961848,
       "rotationalPeriod": 5.4510059053125,
-      "rotationalPeriodTidallyLocked": false,
+      "rotationalPeriodTidallyLocked": true,
       "axialTilt": 0.340215,
       "materials": {
         "Sulphur": 26.29,
@@ -1106,7 +1106,7 @@
         "Ruthenium": 0.74,
         "Tungsten": 0.65
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 8628554,
@@ -1124,7 +1124,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 1947,
+      "distanceToArrival": 2009,
       "isLandable": false,
       "gravity": 1.822723595927096,
       "earthMasses": 202.430054,
@@ -1164,7 +1164,7 @@
         }
       ],
       "reserveLevel": "Low",
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3201599,
@@ -1185,7 +1185,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 1948,
+      "distanceToArrival": 2010,
       "isLandable": true,
       "gravity": 0.0332796720557807,
       "earthMasses": 0.000262,
@@ -1222,7 +1222,7 @@
         "Niobium": 0.81,
         "Technetium": 0.43
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3191620,
@@ -1243,7 +1243,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 1946,
+      "distanceToArrival": 2009,
       "isLandable": true,
       "gravity": 0.039756230517695834,
       "earthMasses": 0.000445,
@@ -1265,7 +1265,7 @@
       "orbitalInclination": -0.078198,
       "argOfPeriapsis": 12.554492,
       "rotationalPeriod": 1.643410767650463,
-      "rotationalPeriodTidallyLocked": false,
+      "rotationalPeriodTidallyLocked": true,
       "axialTilt": 0.122188,
       "materials": {
         "Sulphur": 27.1,
@@ -1280,7 +1280,7 @@
         "Tellurium": 0.92,
         "Mercury": 0.53
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3196538,
@@ -1301,7 +1301,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 1946,
+      "distanceToArrival": 2010,
       "isLandable": true,
       "gravity": 0.03355852692902363,
       "earthMasses": 0.000269,
@@ -1338,7 +1338,7 @@
         "Yttrium": 0.72,
         "Tungsten": 0.67
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3198044,
@@ -1359,7 +1359,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 1946,
+      "distanceToArrival": 2011,
       "isLandable": true,
       "gravity": 0.061547461684862144,
       "earthMasses": 0.001608,
@@ -1381,7 +1381,7 @@
       "orbitalInclination": 0.01561,
       "argOfPeriapsis": 104.896775,
       "rotationalPeriod": 3.569422163125,
-      "rotationalPeriodTidallyLocked": false,
+      "rotationalPeriodTidallyLocked": true,
       "axialTilt": -0.603896,
       "materials": {
         "Sulphur": 26.83,
@@ -1396,7 +1396,7 @@
         "Yttrium": 0.73,
         "Tungsten": 0.67
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3184938,
@@ -1417,7 +1417,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 1948,
+      "distanceToArrival": 2010,
       "isLandable": true,
       "gravity": 0.04258675041594536,
       "earthMasses": 0.000545,
@@ -1439,7 +1439,7 @@
       "orbitalInclination": 0.681858,
       "argOfPeriapsis": 222.81715,
       "rotationalPeriod": 5.731054708634259,
-      "rotationalPeriodTidallyLocked": true,
+      "rotationalPeriodTidallyLocked": false,
       "axialTilt": -0.451546,
       "materials": {
         "Sulphur": 27.55,
@@ -1454,7 +1454,7 @@
         "Molybdenum": 0.81,
         "Tin": 0.74
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3204050,
@@ -1475,7 +1475,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 1944,
+      "distanceToArrival": 2013,
       "isLandable": true,
       "gravity": 0.06764578959785336,
       "earthMasses": 0.002126,
@@ -1512,7 +1512,7 @@
         "Ruthenium": 0.74,
         "Tungsten": 0.66
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3185137,
@@ -1533,7 +1533,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 1949,
+      "distanceToArrival": 2010,
       "isLandable": true,
       "gravity": 0.06977842861107734,
       "earthMasses": 0.002337,
@@ -1570,7 +1570,7 @@
         "Molybdenum": 0.78,
         "Yttrium": 0.72
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3190702,
@@ -1591,7 +1591,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 1952,
+      "distanceToArrival": 2013,
       "isLandable": true,
       "gravity": 0.08642477976810321,
       "earthMasses": 0.004416,
@@ -1628,7 +1628,7 @@
         "Tin": 0.74,
         "Tungsten": 0.68
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3186442,
@@ -1649,7 +1649,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 1952,
+      "distanceToArrival": 2003,
       "isLandable": true,
       "gravity": 0.0799928407162196,
       "earthMasses": 0.003519,
@@ -1686,7 +1686,7 @@
         "Tellurium": 0.94,
         "Tungsten": 0.68
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3195240,
@@ -1707,7 +1707,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 1977,
+      "distanceToArrival": 1990,
       "isLandable": true,
       "gravity": 0.1710191281257361,
       "earthMasses": 0.034185,
@@ -1729,7 +1729,7 @@
       "orbitalInclination": 79.924924,
       "argOfPeriapsis": 248.076975,
       "rotationalPeriod": 205.94884103108797,
-      "rotationalPeriodTidallyLocked": false,
+      "rotationalPeriodTidallyLocked": true,
       "axialTilt": 0.492162,
       "materials": {
         "Sulphur": 27.98,
@@ -1744,7 +1744,7 @@
         "Tin": 0.76,
         "Polonium": 0.33
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 8628566,
@@ -1765,7 +1765,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 3227,
+      "distanceToArrival": 3176,
       "isLandable": false,
       "gravity": 0.821071265871677,
       "earthMasses": 22.713442,
@@ -1798,7 +1798,7 @@
         }
       ],
       "reserveLevel": "Low",
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 8628549,
@@ -1822,7 +1822,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 3227,
+      "distanceToArrival": 3176,
       "isLandable": true,
       "gravity": 0.04524242737074489,
       "earthMasses": 0.000654,
@@ -1859,7 +1859,7 @@
         "Tin": 0.73,
         "Technetium": 0.43
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3197651,
@@ -1886,7 +1886,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 3223,
+      "distanceToArrival": 3174,
       "isLandable": true,
       "gravity": 0.0646164584199707,
       "earthMasses": 0.001877,
@@ -1908,7 +1908,7 @@
       "orbitalInclination": -8.266776,
       "argOfPeriapsis": 117.253461,
       "rotationalPeriod": 0.9077282725694444,
-      "rotationalPeriodTidallyLocked": false,
+      "rotationalPeriodTidallyLocked": true,
       "axialTilt": -0.040737,
       "materials": {
         "Sulphur": 27,
@@ -1923,7 +1923,7 @@
         "Tungsten": 0.66,
         "Technetium": 0.43
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3198406,
@@ -1950,7 +1950,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 3223,
+      "distanceToArrival": 3174,
       "isLandable": true,
       "gravity": 0.05595726576544192,
       "earthMasses": 0.001228,
@@ -1972,7 +1972,7 @@
       "orbitalInclination": -8.266776,
       "argOfPeriapsis": 297.253456,
       "rotationalPeriod": 0.7343984220023148,
-      "rotationalPeriodTidallyLocked": true,
+      "rotationalPeriodTidallyLocked": false,
       "axialTilt": 0.072386,
       "materials": {
         "Sulphur": 26.81,
@@ -1987,7 +1987,7 @@
         "Niobium": 0.82,
         "Polonium": 0.31
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3185670,
@@ -2011,7 +2011,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 3224,
+      "distanceToArrival": 3173,
       "isLandable": true,
       "gravity": 0.05714072521883058,
       "earthMasses": 0.001306,
@@ -2033,7 +2033,7 @@
       "orbitalInclination": 2.961618,
       "argOfPeriapsis": 330.890137,
       "rotationalPeriod": 9.71479076207176,
-      "rotationalPeriodTidallyLocked": true,
+      "rotationalPeriodTidallyLocked": false,
       "axialTilt": -0.326854,
       "materials": {
         "Sulphur": 27.04,
@@ -2048,7 +2048,7 @@
         "Ruthenium": 0.75,
         "Tin": 0.73
       },
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     },
     {
       "id": 3206661,
@@ -2069,7 +2069,7 @@
           "Star": 0
         }
       ],
-      "distanceToArrival": 3237,
+      "distanceToArrival": 3161,
       "isLandable": false,
       "gravity": 1.2677136103041728,
       "earthMasses": 4.496938,
@@ -2107,7 +2107,7 @@
         }
       ],
       "reserveLevel": "Low",
-      "updateTime": "2020-07-14 20:26:10"
+      "updateTime": "2021-05-14 01:40:57"
     }
   ]
 }

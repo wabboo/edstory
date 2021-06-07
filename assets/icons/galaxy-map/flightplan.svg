@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="100%"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg965"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="flightplan.svg">
+  <defs
+     id="defs959" />
+  <g
+     inkscape:label="Laag 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="M 1.7621685,2.4575725 V 9.3484796 H 10.937831 V 2.4575725 Z m 5.034547,1.0891811 a 0.45162162,0.49132742 0 0 1 0.4515428,0.4913212 0.45162162,0.49132742 0 0 1 -0.072405,0.266865 L 7.8529482,5.3584353 A 0.64269229,0.67557522 0 0 1 7.9604584,5.3486074 0.64269229,0.67557522 0 0 1 8.6028865,6.0240444 0.64269229,0.67557522 0 0 1 7.9604584,6.6994815 0.64269229,0.67557522 0 0 1 7.458013,6.4450291 l -1.4459018,0.585965 a 0.92061316,1.0031268 0 0 1 0.00307,0.078094 A 0.92061316,1.0031268 0 0 1 5.0945445,8.112419 0.92061316,1.0031268 0 0 1 4.1739067,7.10909 0.92061316,1.0031268 0 0 1 5.0945445,6.1057606 0.92061316,1.0031268 0 0 1 5.8993351,6.6219063 L 7.3180303,6.0473192 A 0.64269229,0.67557522 0 0 1 7.3175914,6.024046 0.64269229,0.67557522 0 0 1 7.5971178,5.4665259 L 6.9704872,4.4916417 A 0.45162162,0.49132742 0 0 1 6.7967155,4.5293958 0.45162162,0.49132742 0 0 1 6.345173,4.0380748 0.45162162,0.49132742 0 0 1 6.7967155,3.5467536 Z"
+       style="stroke-width:0.0737497;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1464" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke-width:0.0740862;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1575-3"
+       width="9.146142"
+       height="0.92069405"
+       x="1.7828894"
+       y="9.3215656"
+       rx="3.3696384e-16" />
+    <path
+       id="path1592"
+       d="M 1.7594728,9.6650492 H 10.918372"
+       style="fill:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1.759473,9.9301757 h 9.158899"
+       id="path1592-6" />
+  </g>
+</svg>

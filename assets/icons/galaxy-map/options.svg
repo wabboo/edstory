@@ -12,42 +12,9 @@
    id="svg965"
    version="1.1"
    viewBox="0 0 12.7 12.7"
-   height="48"
-   width="48">
+   >
   <defs
      id="defs959" />
-  <sodipodi:namedview
-     inkscape:window-maximized="0"
-     inkscape:window-y="192"
-     inkscape:window-x="1705"
-     inkscape:window-height="967"
-     inkscape:window-width="1374"
-     units="px"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="41.038394"
-     inkscape:cx="36.571831"
-     inkscape:zoom="7.9195959"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
-     id="base" />
-  <metadata
-     id="metadata962">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
   <g
      id="layer1"
      inkscape:groupmode="layer"

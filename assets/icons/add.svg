@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="100%"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="add.svg">
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Laag 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       rx="1.4856036e-15"
+       y="2.8397233"
+       x="5.9019198"
+       height="7.0205531"
+       width="0.89616078"
+       id="rect851"
+       style="fill-opacity:1;stroke-width:0.119689;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.359064, 0.119689" />
+    <rect
+       transform="rotate(-90)"
+       style="fill-opacity:1;stroke-width:0.119689;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.359064, 0.119689"
+       id="rect851-0"
+       width="0.89616078"
+       height="7.0205531"
+       x="-6.7980804"
+       y="2.8397233"
+       rx="1.4856036e-15" />
+  </g>
+</svg>

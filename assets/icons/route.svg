@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="route.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 12.7 12.7"
+   height="100%"
+   width="100%">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Laag 1">
+    <path
+       id="path876"
+       d="M 4.1242443,8.0525428 9.4316046,6.094488 7.1128563,3.4150437"
+       style="fill:none;stroke-width:0.70629px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <ellipse
+       style="opacity:0.846698;fill-opacity:1;stroke:none;stroke-width:0.362106;stroke-linecap:round;stroke-linejoin:round"
+       id="path853-9"
+       cx="9.3027878"
+       cy="6.0687118"
+       rx="1.2681391"
+       ry="1.1370676" />
+    <ellipse
+       style="opacity:0.846698;fill-opacity:1;stroke:none;stroke-width:0.237555;stroke-linecap:round;stroke-linejoin:round"
+       id="path853-5"
+       cx="7.1386151"
+       cy="3.466593"
+       rx="0.81513578"
+       ry="0.76135588" />
+    <ellipse
+       ry="1.8790768"
+       rx="1.9586207"
+       cy="8.1156864"
+       cx="4.0876942"
+       id="path853"
+       style="opacity:0.846698;fill-opacity:1;stroke:none;stroke-width:0.57927;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+</svg>

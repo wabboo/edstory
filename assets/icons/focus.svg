@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="focus.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg1021"
+   version="1.1"
+   viewBox="0 0 12.7 12.7"
+   height="100%"
+   width="100%">
+  <sodipodi:namedview
+     inkscape:current-layer="layer1"
+     inkscape:window-maximized="0"
+     inkscape:window-y="215"
+     inkscape:window-x="632"
+     inkscape:cy="3.7502064"
+     inkscape:cx="2.0341408"
+     inkscape:zoom="31.525857"
+     showgrid="false"
+     id="namedview862"
+     inkscape:window-height="1035"
+     inkscape:window-width="2084"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <metadata
+     id="metadata861">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1015">
+    <symbol
+       id="ForwardAndRightArrow">
+      <title
+         id="title2210">Forward and Right Arrow</title>
+    </symbol>
+    <symbol
+       id="DownArrow">
+      <title
+         id="title3827">Down Arrow</title>
+      <path
+         d="M 36,63 14,41 14,26 30,42 30,10 42,10 42,42 58,26 58,41 z"
+         style="stroke:none"
+         id="path3829" />
+    </symbol>
+  </defs>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Laag 1">
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke-width:0.542;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863"
+       cx="6.3499999"
+       cy="8.0072908"
+       rx="3.6226652"
+       ry="2.0231612" />
+    <use
+       xlink:href="#ForwardAndRightArrow"
+       style="stroke-width:1.27889;stroke-miterlimit:4;stroke-dasharray:1.27889, 5.11556;stroke-dashoffset:0"
+       id="use9523"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(0.1048651,0,0,0.1048651,0.24708589,4.0829206)" />
+    <g
+       transform="matrix(0.11785201,0,0,0.14285284,2.1670406,-0.35757979)"
+       style="stroke:none;stroke-width:0.798024;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use6421">
+      <title
+         id="title6435">Down Arrow</title>
+      <path
+         id="path6437"
+         style="stroke:none;stroke-width:0.798024;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 36,63 14,41 V 26 L 30,42 V 10 H 42 V 42 L 58,26 v 15 z" />
+    </g>
+  </g>
+</svg>
