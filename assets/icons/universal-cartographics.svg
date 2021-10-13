@@ -24,19 +24,19 @@
      id="layer1"
      transform="translate(0,-284.3)">
     <path
-       style="fill-opacity:1;"
+       style="fill-opacity:1; stroke-width: 0.25"
        d="m 5.8293255,293.16301 c 0,0 -4.1426801,-2.57247 0.0334,-5.41221 -5.24517016,2.60587 -0.0334,5.41221 -0.0334,5.41221 z"
        id="path2377"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
-       style="fill-opacity:1;"
+       style="fill-opacity:1; stroke-width: 0.25"
        d="m 7.3371256,293.76536 c 0,0 4.2763204,-3.64155 -0.1670301,-6.61492 5.7128905,3.17382 0.1670301,6.61492 0.1670301,6.61492 z"
        id="path2377-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
-       style="fill-opacity:1;"
+       style="fill-opacity:1; stroke-width: 0.25"
        d="m 6.6976567,291.0402 c 0,0 -1.2551226,0.12437 -2.6711548,-1.33695 0.4505452,2.05209 2.6711548,1.33695 2.6711548,1.33695 z"
        id="path2377-5"
        inkscape:connector-curvature="0"

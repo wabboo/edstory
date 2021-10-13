@@ -26,12 +26,12 @@
      id="layer1"
      transform="translate(-61.388715,-55.493222)">
     <path
-       style="fill:none;fill-opacity:1;"
+       style="fill:none;fill-opacity:1; stroke-width: 0.5"
        d="m 65.039965,62.668344 c 3.914696,-3.798904 4.60879,-3.935556 4.60879,-3.935556 l 2.304393,1.831126 -0.13882,1.393843 -3.914692,3.416281 -1.360426,-0.08199 -1.471479,-1.503165 z"
        id="path3735"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-opacity:1;"
+       style="fill:none;fill-opacity:1; stroke-width: 0.5"
        d="m 68.621495,59.607356 2.193339,2.213748 0.999494,0.136653"
        id="path3737"
        inkscape:connector-curvature="0" />
